@@ -1,8 +1,8 @@
 # The-Growth-of-After-Schools-in-Taiwan-Over-the-Years
 
--Data collected from NTHU
--Data cleaning: Excel, Python
--Data visualization: Microsoft powerBI
+- Data collected from NTHU
+- Data cleaning: Excel, Python
+- Data visualization: Microsoft powerBI
 
 **System Image**
 ![Homepage](https://github.com/Snoopy1994/The-Growth-of-After-Schools-in-Taiwan-Over-the-Years/blob/main/sys.png)
